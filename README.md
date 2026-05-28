@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2633&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Amol%20Budhwant&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Integrator&descSize=20&descAlignY=58&descAlign=50&descColor=79c0ff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+%26+Real-World+Web+Applications+%F0%9F%9A%80;Crafting+Intelligent+AI-Powered+Platforms+%F0%9F%A4%96;Full-Stack+MERN+%7C+Socket.io+%7C+JWT+%7C+Gemini;Google+Solution+Challenge+2026+Participant+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+%26+Real-World+Web+Applications+%F0%9F%9A%80;Crafting+Intelligent+AI-Powered+Platforms+%F0%9F%A4%96;Full-Stack+MERN+%7C+Socket.io+%7C+JWT+%7C+Gemini;Google+Solution+Challenge+2026+Participant+%F0%9F%8F%86)](https://github.com/Devamol10)
 
 <br/>
 
@@ -15,8 +15,39 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="28" height="28" /> About Me
+## 👨‍💻 About Me
 
+I am a passionate **Full Stack MERN Developer** and **AI Integrator** focused on building scalable web applications and intelligent systems. I enjoy creating seamless architectures and optimizing backend performance.
+
+- 🔭 Currently building dynamic applications utilizing **Node.js, React, and MongoDB** (with secure JWT auth & Mongoose middleware).
+- 🧠 Deeply interested in **Artificial Intelligence, Neural Networks**, and integrating LLMs like Gemini into robust web platforms.
+- 🏆 Proud participant in the **Google Solution Challenge 2026** and active in Hackathons.
+- ☁️ Scaling apps and managing infrastructure on **Google Cloud Platform (GCP)** and Vercel/Render.
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,gcp,git,github,vercel,netlify,postman&perline=6" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devamol10&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devamol10&theme=react&hide_border=true&background=0D1117&text=C9D1D9&dates=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devamol10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" width="55%" />
+</div>
 ```javascript
 const amol = {
   name        : "Amol Budhwant",
