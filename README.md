@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amol%20Budhwant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20B.Sc%20CS%20%40%20ATSS%20Pune&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,20:111827,40:312E81,60:4F46E5,80:7C3AED,100:C084FC&text=Amol%20Budhwant&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20•%20AI%2FML%20Exploring&descAlignY=60&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amol+%F0%9F%91%8B;Full-Stack+MERN+Developer;Building+real-world+apps+with+clean+code;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;Building+Real-World+Web+Applications;Currently+Learning+AI%2FML+%26+DSA;Backend-focused+Developer;Open+Source+%7C+Continuous+Learning)](https://git.io/typing-svg)
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amolbudhwant2685@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmolBudhwant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-budhwant-8a7226303/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devamol10)
 
 </div>
@@ -20,30 +21,27 @@
 const amol = {
   location: "Pune, Maharashtra 🇮🇳",
   education: "B.Sc Computer Science @ ATSS College (CGPA: 9.0/10)",
-  currently: "2nd Year | Aug 2024 – June 2027",
   passion: ["Full-Stack Dev", "Problem Solving", "Building Products"],
-  funFact: "I turn chai ☕ into commits 🔥"
 };
 ```
 
 -  Building **production-ready full-stack apps** with the MERN stack
 - 🤖 Love integrating **AI APIs** to make apps smarter (Gemini, etc.)
 - 🔐 Security-focused — JWT, OAuth 2.0, Helmet.js are my best friends
-- 🏆 Participated in **Google Solution Challenge 2026** with [KisanAlert](https://github.com/Devamol10)
 - 📚 Currently deepening skills in **DSA, System Design & AI&ML**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c,mysql&theme=dark" />
+
+</div>
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -120,8 +118,12 @@ const amol = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devamol10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devamol10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devamol10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devamol10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 <br/>
 
@@ -131,21 +133,13 @@ const amol = {
 
 ---
 
-## 🏆 Achievements & Activities
-
-- 🥇 **Google Solution Challenge 2026** — Built *KisanAlert*, an agri-tech solution for farmers
-- 🎯 Active participant in **inter-college technical events** — coding competitions, project presentations & pitch activities
-- 💻 Maintained consistent **GitHub contributions** across multiple independent projects
-- 🎓 **CGPA: 9.0/10** — B.Sc Computer Science, ATSS College, Pune
-
----
 
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
 
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amolbudhwant2685@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmolBudhwant)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-budhwant-8a7226303/)
 [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devamol10)
 
 <br/>
