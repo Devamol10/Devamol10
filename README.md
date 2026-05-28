@@ -69,28 +69,37 @@ const amol = {
     <tr>
       <td width="50%" align="center">
         <h3>🛒 CampusCart</h3>
-        <a href="https://github.com/Devamol10/CampusCart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devamol10&repo=CampusCart&theme=tokyonight&hide_border=true" /></a>
-        <br/>
         <p>AI-powered campus marketplace with <b>real-time messaging (Socket.io)</b>, <b>OAuth authentication</b>, and <b>Gemini AI product search</b>.</p>
+        <div align="center">
+          <a href="https://campuscart-eta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+          <a href="https://github.com/Devamol10/CampusCart"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        </div>
       </td>
       <td width="50%" align="center">
         <h3>📚 EduFlow</h3>
-        <a href="https://github.com/Devamol10/EduFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devamol10&repo=EduFlow&theme=tokyonight&hide_border=true" /></a>
-        <br/>
         <p>Centralized ERP system for coaching institutes featuring <b>Recharts analytics dashboards</b>, fee management, and <b>role-based JWT auth</b>.</p>
+        <div align="center">
+          <a href="https://eduflow-tution-webpage.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+          <a href="https://github.com/Devamol10/EduFlow"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        </div>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h3>🔗 LinkMint</h3>
-        <a href="https://github.com/Devamol10/LinkMint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devamol10&repo=LinkMint&theme=tokyonight&hide_border=true" /></a>
-        <br/>
         <p>URL shortening and analytics platform with <b>real-time click tracking</b>, <b>OAuth 2.0</b>, and backend security via <b>Helmet.js</b>.</p>
+        <div align="center">
+          <a href="https://url-shortener-lovat-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+          <a href="https://github.com/Devamol10/LinkMint"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        </div>
       </td>
       <td width="50%" align="center">
         <h3>🌾 KisanAlert</h3>
         <p><i>Google Solution Challenge 2026</i></p>
         <p>AI-powered agricultural alert system. <br/><b>Contributed as collaborator</b> with 21 commits in April 2026.</p>
+        <div align="center">
+          <a href="https://kisanalert-ai.web.app/"><img src="https://img.shields.io/badge/Live%20Demo-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Live Demo" /></a>
+        </div>
       </td>
     </tr>
   </table>
