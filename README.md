@@ -90,7 +90,7 @@ const amol = {
         <p>URL shortening and analytics platform with <b>real-time click tracking</b>, <b>OAuth 2.0</b>, and backend security via <b>Helmet.js</b>.</p>
         <div align="center">
           <a href="https://url-shortener-lovat-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-          <a href="https://github.com/Devamol10/LinkMint"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+          <a href="https://github.com/Devamol10/url-shortener.git"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
         </div>
       </td>
       <td width="50%" align="center">
