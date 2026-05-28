@@ -22,7 +22,7 @@ const amol = {
   name        : "Amol Budhwant",
   role        : "Full Stack MERN Developer",
   education   : "B.Sc CS @ ATSS College, Pune (CGPA: 9.0 / 10.00)",
-  location    : "Aurangabad → Pune, Maharashtra 🇮🇳",
+  location    : "Pune, Maharashtra 🇮🇳",
   focus       : "Scalable web apps, real-time systems & AI integrations",
   achievements: [
       "Google Solution Challenge 2026 — KisanAlert 🏆",
