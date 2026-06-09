@@ -68,50 +68,101 @@ const amol = {
 
 ---
 
-##  `> execute_projects // Featured Work`
+## Projects
 
-<div align="center">
-  <table border="0" cellspacing="10" cellpadding="10" style="border-collapse: collapse; border: 1px solid #30363d;">
-    <tr>
-      <td width="50%" valign="top" align="center" style="padding: 15px; background-color: #0d1117; border-radius: 6px;">
-        <h3>🛒 CampusCart</h3>
-        <p>AI-powered campus marketplace featuring <b>real-time messaging (Socket.io)</b>, OAuth authentication, and semantic product discovery powered by <b>Gemini AI</b>.</p>
-        <div align="center">
-          <a href="https://campuscart-eta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-          <a href="https://github.com/Devamol10/CampusCart"><img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-        </div>
-      </td>
-      <td width="50%" valign="top" align="center" style="padding: 15px; background-color: #0d1117; border-radius: 6px;">
-        <h3>📚 EduFlow</h3>
-        <p>Centralized ERP system for coaching institutes. Integrates <b>Recharts analytics dashboards</b>, comprehensive fee tracking displaying the accurate <b>updated pending balance</b>, and <b>role-based JWT auth</b>.</p>
-        <div align="center">
-          <a href="https://eduflow-tution-webpage.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-          <a href="https://github.com/Devamol10/EduFlow"><img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top" align="center" style="padding: 15px; background-color: #0d1117; border-radius: 6px;">
-        <h3>🔗 LinkMint</h3>
-        <p>URL shortening and analytics platform with <b>real-time click tracking</b>, <b>OAuth 2.0</b>, and hardened backend security via <b>Helmet.js</b>.</p>
-        <div align="center">
-          <a href="https://url-shortener-lovat-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-          <a href="https://github.com/Devamol10/url-shortener.git"><img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-        </div>
-      </td>
-      <td width="50%" valign="top" align="center" style="padding: 15px; background-color: #0d1117; border-radius: 6px;">
-        <h3>🌾 KisanAlert</h3>
-        <p><i>Google Solution Challenge 2026</i></p>
-        <p>Collaborated on an AI-powered agricultural alert system designed to predict market crashes and assist farmers in Maharashtra.</p>
-        <div align="center">
-          <a href="https://kisanalert-ai.web.app/"><img src="https://img.shields.io/badge/Live_Demo-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" /></a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Production-Ready+Full+Stack+Projects;AI+%2B+MERN+%2B+Cloud;Building+Software+That+Solves+Real+Problems" />
+</p>
 
+---
+
+### 🛒 CampusCart
+> AI-powered campus marketplace with real-time messaging, OAuth authentication, and Gemini-powered semantic search.
+
+<p>
+  <img src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="https://campuscart-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devamol10/CampusCart">
+    <img src="https://img.shields.io/badge/⭐_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📚 EduFlow
+> Coaching ERP with analytics dashboards, fee management, attendance tracking, and role-based access control.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="https://eduflow-tution-webpage.vercel.app/">
+    <img src="https://img.shields.io/badge/📊_OPEN_APP-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devamol10/EduFlow">
+    <img src="https://img.shields.io/badge/⚡_VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔗 LinkMint
+> Secure URL shortening platform featuring OAuth 2.0, analytics dashboards, and real-time click tracking.
+
+<p>
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helmet.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="https://url-shortener-lovat-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/🔗_TRY_NOW-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devamol10/url-shortener">
+    <img src="https://img.shields.io/badge/🔥_EXPLORE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌾 KisanAlert
+> Google Solution Challenge 2026 project helping farmers anticipate market disruptions using AI-driven insights and alerts.
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Solution_Challenge-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Impact_for_Farmers-2E7D32?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="https://kisanalert-ai.web.app/">
+    <img src="https://img.shields.io/badge/🌾_LIVE_PLATFORM-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devamol10/KisanAlert-AI">
+    <img src="https://img.shields.io/badge/🏆_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devamol10&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ## 📊 GitHub Stats
